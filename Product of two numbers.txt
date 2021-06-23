@@ -4,11 +4,11 @@ using namespace std;
 
 int main()
 {
-    float n,m;
+    float a,b;
     cout<<"Enter two numbers";
-    cin>>n>>m;
+    cin>>a>>b;
     float product;
-    product=n*m;
+    product=a*b;
     cout<<product;
 
     return 0;
